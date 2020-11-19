@@ -1,0 +1,120 @@
+﻿Code;Description;feature_name;Nombres de réponses;type;missing_value
+DPQ010;Have little interest in doing things;little_interest;5086;categories;7, 9
+DPQ020;Feeling down, depressed or hopeless;feeling_depressed;5087;categories;7, 9
+DPQ030;Trouble sleeping or sleeping too much;sleeping;5086;categories;7,9
+DPQ040;Feeling tired or having little energy;tired;5085;categories;7,9
+DPQ050;Poor appetite or overeating;appetite;5087;categories;7,9
+DPQ060;Feeling bad about yourself;bad;5083;categories;7,9
+DPQ070;Trouble concentrating on things;concentrating_trouble;5086;categories;7,9
+DPQ080;Moving or speaking slowly or too fast;speaking_trouble;5084;categories;7,9
+DPQ090;Thought you would be better off dead;suicidal_idea;5085;categories;7,9
+MCQ010;Ever been told you have asthma;asthma;8888;yes_no;7, 9
+MCQ053;Taking treatment for anemia during the past 3 months;anemia;8882;yes_no;7,9
+MCQ080;Doctor ever said you were overweight;overweight;6154;yes_no;7,9
+MCQ092;Ever receive blood transfusion;blood_transfusion;7796;yes_no;7,9
+MCQ160A;Doctor ever said you had arthritis;arthritis;5552;yes_no;7,9
+MCQ160B;Ever told had congestive heart failure;congestive_heart_failure;5552;yes_no;7,9
+MCQ160C;Ever told you had coronary heart disease;coronary_heart_failure;5553;yes_no;7,9
+MCQ160D;Ever told you had angina/angina pectoris;angina;5539;yes_no;7,9
+MCQ160E;Ever told you had heart attack;heart_attack;5559;yes_no;7,9
+MCQ160F;Ever told you had a stroke;stroke;5559;yes_no;7,9
+MCQ160M;Ever told you had thyroid problem;thyroid_problem;5554;yes_no;7,9
+MCQ160G;Ever told you had emphysema;emphysema;5556;yes_no;7,9
+MCQ160K;Ever told you had chronic bronchitis;chronic_bronchitis;5563;yes_no;7,9
+MCQ160O;Ever told you had COPD;copd;5560;yes_no;7,9
+MCQ160L;Ever told you had any liver condition;liver_condition;5554;yes_no;7,9
+MCQ520;Abdominal pain during past 12 months;abdominal_pain;5564;yes_no;7,9
+MCQ550;Has Dr ever said you have gallstones;gallstones;5554;yes_no;7,9
+MCQ220;Ever told you had cancer or malignancy;cancer;5567;yes_no;7,9
+MCQ300B;Close relative had asthma;asthma_relative;7730;yes_no;7,9
+MCQ300C;Close relative had diabetes;diabetes_relative;5487;yes_no;7,9
+MCQ300A;Close relative had heart attack;heart_attack_relative;5441;yes_no;7,9
+MCQ366B;Doctor told you to exercise;order_to_exercise;6160;yes_no;7,9
+MCQ366C;Doctor told you to reduce salt in diet;order_to_reduce_salt;6157;yes_no;7,9
+MCQ366D;Doctor told you to reduce fat/calories;order_to_reduce_fat;6157;yes_no;7,9
+MCQ371A;Are you now controlling or losing weight;losing_weight;6156;yes_no;7,9
+MCQ371B;Are you now increasing exercise;increase_exercise;6158;yes_no;7,9
+MCQ371C;Are you now reducing salt in diet;reduce_salt;6157;yes_no;7,9
+MCQ371D;Are you now reducing fat in diet;reduce_fat;6055;yes_no;7,9
+HUQ010;General health condition;health_condition;9247;categories;7,9
+HUQ020;Health now compared with 1 year ago;health_now_compared_before;8891;categories;7,9
+HUQ030;Routine place to go for healthcare;routine_healthcare;9252;categories;7,9
+HUQ051;Times receive healthcare over past year;times_healthcare;9229;categories;77,99
+HUQ090;Seen mental health professional over the past year;mental_health_professional;8231;yes_no;7,9
+HIQ011;Covered by health insurance;health_insurance;9229;yes_no;7,9
+HIQ270;Do plans cover prescriptions;cover_prescriptions;8057;yes_no;7,9
+ECD010;Mother's age when born;mother_age_born;3046;range of values;7777, 9999
+ECQ020;Mother smoked when pregnant;mother_smoked_pregnancy;3059;yes_no;7,9
+ECD070A;Weight at birth;weight_birth;3007;range of values;7777, 9999
+WHQ030E;How do you consider your child's weight;child_weight;2497;categories;7, 9
+DUQ200;Ever used marijuana or hashish;marijuana_user;3199;yes_no;7, 9
+DUQ210;Age when first tried marijuana;age_first_marijuana;1737;range of values;777,999
+DUQ211;Used marijuana every month for a year;marijuana_every_month;1737;yes_no;7,9
+DUQ217;How often would you use marijuana;marijuana_frequency;868;categories;7,9
+DUQ240;Ever used cocaine/heroin/methalohetamine;cocaine_user;4144;yes_no;7,9
+DUQ370;Ever use a needle to inject illegal drug;needle_user;4148;yes_no;7,9
+DUQ430;Ever been in rehabilitation program;rehabilitation;1765;yes_no;7,9
+DLQ010;Have serious difficulty hearing;hearing_difficulty;8896;yes_no;7,9
+DLQ020;Have serious difficulty seeing;seeing_difficulty;8897;yes_no;7,9
+DLQ040;Have serious difficulty concentrating;concentrating_difficulty;8048;yes_no;7,9
+DLQ050;Have serious difficulty walking;walking_difficulty;8053;yes_no;7,9
+DLQ060;Have difficulty dressing or bathing;bathing_difficulty;8056;yes_no;7,9
+DLQ080;Have difficulty doing errands alone;errands_alone;6290;yes_no;7,9
+DLQ100;How often do you feel worried or anxious;worried_frequency;5747;categories;7,9
+DLQ110;Take medication for theses feelings;medication_anxiety;5756;yes_no;7,9
+DLQ130;How worried or anxious were you;worried_qualification;4316;categories;7,9
+DLQ140;How often do you feel depressed;depressed_frequency;5747;categories;7,9
+DLQ150;Take medication for depression;medication_depression;5757;yes_no;7,9
+DLQ170;How depressed did you feel;depressed_qualification;3025;categories;7,9
+DBQ700;How healthy is the diet;healthy;6159;categories;7,9
+DBQ197;Past 30 days milk product consumption;milk_consumption_past_month;8896;categories;7,9
+DBQ229;Regular milk use 5 times per week;regular_milk;5566;categories;7,9
+DBD895;Number of meals not home prepared;meals_not_home_prepared;8820;range of values;7777, 9999
+DBD900;Number of meals from fast food or pizza place;pizza;6813;range of values;7777, 9999
+DBD905;Number of ready-to-eat foods in past 30 days;ready_to_eat_foods;8807;range of values;7777, 9999
+DBD910;Number of frozen meals/pizza in past 30 days;frozen_meals;8816;range of values;7777, 9999
+DBQ935;Shared meal planning/preparing duty;shared_meal_planning;6161;yes_no;7,9
+DBQ940;Main food shopper;main_food_shopper;6161;yes_no;7,9
+DBQ945;Shared food shopping duty;shared_food_shopping;6161;yes_no;7,9
+DIQ010;Doctor told you have diabetes;diabetes;8893;categories;7,9
+DIQ160;Ever told you have prediabetes;prediabetes;5686;yes_no;7,9
+DIQ170;Ever told you have health risk for diabetes;health_risk_diabetes;5859;yes_no;7,9
+DIQ172;Feel could be at risk for diabetes;feel_risk_diabetes;5805;yes_no;7,9
+DIQ050;Taking insulin now;insulin;8896;yes_no;7,9
+HSD010;General Health condition;general_health_condition;5964;categories;7,9
+HSQ571;Donated blood in past 12 months;donated_blood;5416;yes_no;7,9
+CDQ001;Ever had pain or discomfort in chest;pain_chest;3880;yes_no;7,9
+CDQ010;Shortness of breath on stairs/inclines;shortness_breath;3867;yes_no;7,9
+BPQ020;Ever told you had high blood pressure;high_blood_pressure;6151;yes_no;7,9
+BPQ080;Told you high cholesterol level;high_cholesterol_level;6121;yes_no;7,9
+RIAGENDR;Gender of the participant;gender;9254;categories;
+RIDAGEYR;Age in years at screening;age ;9254;int;
+RIDRETH3;Race : hispanic origin with NH Asian;race;9254;categories;7,9
+DMDEDUC2;Education level;education;5569;categories;7, 9
+DMDHHSIZ;Total number of people in the Household;people_number;9254;int;77
+DMDHRMAZ;Person’s marital status;marital_status;9063;categories;77
+INDHHIN2;Annual household income;income;8373;categories;77, 99
+URXUMS;Albumine, urine (mg/L);albumine;7632;range of values;
+URXUCR;Creatinine, urine (mg/dL);creatinine;7632;range of values;
+LBXTC;Total cholesterol (mg/dL);cholesterol;6738;range of values;
+LBXBPB;Blood lead (ug/dL);blood_lead;6884;range of values;
+LBXTHG;Blood mercury (ug/L);blood_mercury;7513;range of values;
+LBXBSE;Blood selenium (ug/L);blood_selenium;7513;range of values;
+LBXBMN;Blood manganese (ug/L);blood_manganese;7513;range of values;
+LBXBCR;Chromium, (ug/L);chromium;3518;range of values;
+LBXBCO;Cobalt (ug/L);cobalt;3520;range of values;
+LBXLYPCT;Lymphocyte percent;lymphocyte;7423;range of values;
+LBXMOPCT;Monocyte percent;monocyte;7423;range of values;
+LBXNEPCT;Segmented neutrophils percent;neutrophils;7423;range of values;
+LBXEOPCT;Eosiniphils percent;eosinophils;7423;range of values;
+LBXBAPCT;Basophils percent;basophils;7423;range of values;
+LBXHGB;Hemoglobin (g/dL);hemoglobin;7423;range of values;
+LBXHCT;Hematocrit (%);hematocrit;7423;range of values;
+LBXPLTSI;Platelet Count (1000 cells/uL);platelet;7423;range of values;
+LBXHBC;Hepatitis B core antibody;hepatitis_B;6793;yes_no;3
+LBDHEM;Hepatitis E IgC (anti-HEV);hepatitis_E;6791;yes_no;
+LBDFERSI;Ferritin (ug/L);ferritin;6589;range of values;
+LBXGH;Glycohemoglobin (%);glycohemoglobin;6045;range of values;
+LBXHA;Hepatitis A antibody;hepatitis_A;7099;yes_no;3
+LBXIHG;Mercury, inorganic (ug/L);mercury;7480;range of values;
+LBXVIC;Vitamin C (mg/dL);vitamin_c;6740;range of values;
