@@ -88,7 +88,7 @@ CDQ010;Shortness of breath on stairs/inclines;shortness_breath;3867;yes_no;7,9
 BPQ020;Ever told you had high blood pressure;high_blood_pressure;6151;yes_no;7,9
 BPQ080;Told you high cholesterol level;high_cholesterol_level;6121;yes_no;7,9
 RIAGENDR;Gender of the participant;gender;9254;categories;
-RIDAGEYR;Age in years at screening;age ;9254;int;
+RIDAGEYR;Age in years at screening;age;9254;int;
 RIDRETH3;Race : hispanic origin with NH Asian;race;9254;categories;7,9
 DMDEDUC2;Education level;education;5569;categories;7, 9
 DMDHHSIZ;Total number of people in the Household;people_number;9254;int;77
