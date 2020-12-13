@@ -21,4 +21,4 @@ A partir de toutes ces données, nous cherchons à prédire au mieux l'hypertens
   - data_unscaled.csv : données non scalées
   - data_scaled.csv : données scalées
 - clustering : clustering avec k-means sur les données scalées afin d'affiner la prédiction
-- model_selection : feature selection et discrimination entre plusieurs modèles (random forest, decision tree, KNN, logistic regression, MLP classifier)
+- model_selection : feature selection et discrimination entre plusieurs modèles (random forest, decision tree, logistic regression)
